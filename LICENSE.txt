@@ -1,3 +1,6 @@
+.:NB :: sans le "Shaarli" de Seb Sauvage, il n'y aura pas ce charlie là (2014.02.17).
+.:PS :: juste un test gitHub et tout plein de trucs rigolo comme lynx, bash, cmake, qmake…
+********************************************* ********************************************
 blablabla..
 
 une poésie spéciale,
@@ -7,6 +10,9 @@ de la part de quelques avocats bien murs,
 io.license
 io.autorisations
 io.droits * cf:micro-local (micral)
+io.www.micreb.org
+********************************************* ********************************************
+ 
  
 io.http://fsf.org/
 io.GNU LESSER GENERAL PUBLIC LICENSE
